@@ -1,5 +1,5 @@
 
-div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div> 
+<div align="center"><h1 align="center"> Hi There! I am a Data Analyst 👋 </h1></div> 
 
 <b>Hi, My name is Yamini Reddivari. I am a data professional.<b> 
 
@@ -14,8 +14,9 @@ div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1>
 <b>I have experience using these data analysis tools.<b> 
 
 <p align="center"> 
+<p align="center">
+<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
 
-<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a> 
 
 <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a> 
 
@@ -63,7 +64,7 @@ div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1>
 
  
 
-<a href="https://www.linkedin.com/in/user-name/”> 
+<a href="https://www.linkedin.com/in/user-name/"> 
 
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
@@ -71,7 +72,7 @@ div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1>
 
  
 
-<a href=""public.tableau.com/username> 
+<a href="public.tableau.com/username"> 
 
   <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  /> 
 
